@@ -39,9 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Press buttons  
 ![press buttons](http://g.recordit.co/J7TIjx5t9e.gif)
+Start and end work perfectly  
 ![start and end work perfectly](http://g.recordit.co/kJzaMUMmeV.gif)
+Success - simplified version (3 patterns)  
 ![success - simplified version (3 patterns)](http://g.recordit.co/7w9QpVFHHQ.gif)
+Failure - allow 3 mistakes  
 ![failure - allow 3 mistakes](http://g.recordit.co/AsRDkCYvB7.gif)
 
 ## Reflection Questions
