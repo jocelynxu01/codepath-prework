@@ -39,17 +39,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/J7TIjx5t9e.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![press buttons](http://g.recordit.co/J7TIjx5t9e.gif)
+![start and end work perfectly](http://g.recordit.co/kJzaMUMmeV.gif)
+![success - simplified version (3 patterns)](http://g.recordit.co/7w9QpVFHHQ.gif)
+![failure - allow 3 mistakes](http://g.recordit.co/AsRDkCYvB7.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://stackoverflow.com/questions/5836833/create-an-array-with-random-values, w3schools.com/cssref/pr_background-color.asp]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[There are several challenges I have encountered during building the project, which includes technical learning, time restriction, and creative thinking. The first challenge I have encountered would indeed go to the time restriction. I did not see this program until 22th April, which is also the due day for submission. I have tried my best spending consecutives hours watching videos provided by the program, going through the explanations written on the website, and googling javascript, CSS, and HTML through different learning platforms. As a computer science student, doing project within a limited time is not a big difficulty, in fact, it is quite interesting. I have done a lot of teamwork with different CS students and professors, but all I have completed before are all about database and structure. Creating a front-end based project following the instructions is quite fun and challenging. For example, at the beginning, I have minimum idea of how body, div, h1, img, button, and etc work, but after looking through the guidelines and implementing functionalities with visualizations, I have a clear understanding of them. The optional features are a little bit more challenging than the required ones, and I found them intriguing and useful. I have learned the differences between each “part” of the webpage (sorry if this is not the correct term): how to make a button function as we expect, how to add limitations to certain part of the page, how to hide and trigger certain buttons/images, and how to align everything together to make the page prettier. One of the biggest reasons why I love building these optional features is that there is no actual rule of implementation, I get the chance to explore the language. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
