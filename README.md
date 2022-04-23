@@ -66,7 +66,7 @@ If I had a few more hours to work on this prework project, I would for sure look
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/898d1ef3f4784823aa35e8bc4ff56d7a)
 
 
 ## License
